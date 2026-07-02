@@ -107,6 +107,22 @@ Data Modeling
 
 Data Visualization
 
+## Business Problem
+
+Hotel managers need visibility into booking trends, cancellation behavior, customer segmentation, and revenue performance.
+
+This dashboard helps stakeholders:
+
+• Monitor booking KPIs
+
+• Reduce cancellations
+
+• Identify profitable customer segments
+
+• Track monthly revenue
+
+• Analyze guest behavior
+
 📈 Key Insights
 
 City Hotels generated the highest number of bookings.
@@ -123,25 +139,46 @@ Most guests prefer Bed & Breakfast meal plans.
 
 📂Dataset 
 
-https://storage.googleapis.com/kaggle-data-sets/511638/944030/compressed/hotel_bookings.csv.zip?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20260623%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260623T161432Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=6af34c6bd1d4f4bb58450795601272e856a83c10a7f6d4f4597fd4546cc8a19d0a3ed3a1be5d9a442b9d19d3da9808e09fc281a4dcf4b02569a7e0cfdd7926b44144ba89eb4dd12078de88861bad2b52614df35e0f6c010af5c98e2f94dd940b2f7779d278d9ede732f646c8600662fdec175b1729c2962781c9481e3d691a5704f848a2bd455a8be83ca21fc5d3c13438c72b566cfc5a8df88a16d70f35b8ad262d7f52002a9dca70c0888225f2a6a173b68e628f3a38cf991caaaea7075c6baa17daf804dddd5d831f5c8c7e010db7edf72ccc2fc0390793eed3abda4021d979648bc25400ee9a33dcfea0f74ca44986bb3b8ff680dc3e552a75edc3313a54
-
 Hotel Booking Demand Dataset
+
+Records : 119,390
+
+Columns : 32
+
+Source : Kaggle
+
+Overview Dashboard
+
 <img width="1136" height="660" alt="image" src="https://github.com/user-attachments/assets/cc5e5eea-c55c-449b-a2f7-7d33bebea01b" />
+
+Cancellation Analysis
+
 <img width="1127" height="641" alt="image" src="https://github.com/user-attachments/assets/21b52e03-cd34-4344-a79c-618e50579cee" />
+
+Revenue & Customer Insights
+
 <img width="1138" height="648" alt="image" src="https://github.com/user-attachments/assets/47cd96aa-4524-4806-b2b3-d788df6bf180" />
 
 ⭐ Skills Demonstrated
 
-Data Cleaning
+✔ Data Cleaning
 
-Power Query
+✔ Power Query
 
-DAX Measures
+✔ Data Modeling
 
-KPI Development
+✔ DAX
 
-Dashboard Design
+✔ KPI Design
 
-Business Intelligence
+✔ Dashboard Development
 
-Storytelling with Data
+✔ Data Storytelling
+
+✔ Business Intelligence
+
+Author
+
+Hardik Arya 
+   
+   Aspiring Data Analyst
